@@ -5,5 +5,5 @@ Create with Java Script, Css & HTML.
 
 *You can try it [here](https://sh-anna.github.io/TextFollowingMouse/)
 
-![](Capture.JPG)
+![](https://github.com/sh-anna/TextFollowingMouse/blob/main/Capture.JPG)
 
