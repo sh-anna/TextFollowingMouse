@@ -4,4 +4,4 @@ Create with Java Script, Css & HTML.
 
 *You can try it [here](https://sh-anna.github.io/TextFollowingMouse/)
 
-![](https://github.com/sh-anna/TextFollowingMouse/blob/main/Capture.JPG | width=100)
+![](Capture.JPG | width=100)
