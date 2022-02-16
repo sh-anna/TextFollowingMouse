@@ -41,3 +41,21 @@
     line-height: .8;
     transition: ease-out .6s;
   }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  footer i {
+    color: red;
+  }
+  
+  footer a {
+    color: #3DBEAF;
+    text-decoration: none;
+  }
